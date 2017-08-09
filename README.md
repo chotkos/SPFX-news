@@ -10,4 +10,4 @@ npm install
 gulp serve
 
 
-If there is reference for lity-fixes.css, copy directory src/WebParts/sertpfxnews/style to lib/WebParts/sertpfxnews/style
+If there is reference for lity-fixes.css, copy directory src/WebParts/sertpfxnews/style to lib/WebParts/sertpfxnews/style  
